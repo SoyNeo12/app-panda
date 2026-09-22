@@ -1,3 +1,3 @@
 # PandaApp
 
-Descarga el archivo `app-panda.zip` de los releases.
+Descarga el archivo `app-panda` de los releases.
